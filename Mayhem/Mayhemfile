@@ -3,3 +3,5 @@ target: test
 
 cmds:
     - cmd: /test @@
+    env: {}
+    filepath: test_2_comments.txt
