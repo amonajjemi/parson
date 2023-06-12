@@ -1,4 +1,4 @@
-image: ghcr.io/amonajjemi/parson:latest
+image: ghcr.io/arka16/parson:latest
 duration: 1200
 project: parson
 target: parson
